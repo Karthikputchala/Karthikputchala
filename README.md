@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Karthikputchala
+- 👋 Hi, I’m a Machine Learning engineer.
 - 👀 I’m interested in AI & Machine Learning
-- 🌱 I’m currently trying new efficient techniques to solve the problems
-- 💞️ I’m looking to collaborate on any project regarding to Machine Learning
+- 🌱 I had worked on the projects that are uploaded in this Github and participated in few competions in the Kaggle.
 
 <!---
 Karthikputchala/Karthikputchala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
