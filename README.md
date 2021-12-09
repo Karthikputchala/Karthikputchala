@@ -1,5 +1,5 @@
-- 👋 Hi, I’m a Machine Learning engineer.
-- 👀 I’m interested in AI & Machine Learning
+- 👋 Hi, I’m a Deep Learning engineer.
+- 👀 I’m interested in AI & Deep Learning along with computer vision, NLP.
 - 🌱 I had worked on the projects that are uploaded in this Github and participated in few competions in the Kaggle.
 
 <!---
