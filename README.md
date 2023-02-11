@@ -14,6 +14,11 @@ I haven't written any blog posts yet but here are few of my projects.
 |----------|----------|----------|
 | ![](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues/blob/main/Screenshots/Screenshot%20(30).png) | ![](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues/blob/main/Screenshots/Screenshot%20(31).png) | ![](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues/blob/main/Screenshots/Screenshot%20(33).png) |
 
+- Real Time Video Analysis  [(GitHub-Repo)](https://github.com/Karthikputchala/Real-Time-Video-Analysis)  [(Try-it-Out!)](https://karthikputchala-real-time-video-analysis-main-69q96j.streamlit.app/)
+
+| Screenshot 1 | Screenshot 2 |
+|----------|----------|
+| ![](https://github.com/Karthikputchala/Real-Time-Video-Analysis/blob/main/Screenshots/Screenshot%20(34).png) | ![](https://github.com/Karthikputchala/Real-Time-Video-Analysis/blob/main/Screenshots/Screenshot%20(35).png) |
 
 
 
