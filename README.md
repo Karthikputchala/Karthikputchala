@@ -20,6 +20,11 @@ I haven't written any blog posts yet but here are few of my projects.
 |----------|----------|
 | ![](https://github.com/Karthikputchala/Real-Time-Video-Analysis/blob/main/Screenshots/Screenshot%20(34).png) | ![](https://github.com/Karthikputchala/Real-Time-Video-Analysis/blob/main/Screenshots/Screenshot%20(35).png) |
 
+- Britannica Independence  [(GitHub-Repo)](https://github.com/Karthikputchala/Britannica-Independence)  [(Try-it-Out!)](https://karthikputchala-britannica-independence-app-fd09j4.streamlit.app/)
+
+| Screenshot 1 | Screenshot 2 |
+|----------|----------|
+| ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(36).png) | ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(37).png) |
 
 
 
