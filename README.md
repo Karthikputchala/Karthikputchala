@@ -24,7 +24,7 @@ Here are few of my projects.
 
 | Screenshot 1 | Screenshot 2 |
 |----------|----------|
-| ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(40).png) | ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(41).png) |
+| ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(41).png) | ![](https://github.com/Karthikputchala/Britannica-Independence/blob/main/Screenshots/Screenshot%20(40).png) |
 
 
 
