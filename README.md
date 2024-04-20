@@ -7,6 +7,10 @@ Being an enthusiastic in AI, I create projects based on the random ideas I get w
 Here are few of my projects.
 
 ## Projects
+- Vernion Propulsions - Creating an Axial Flux Motor based on PCB stator [(Instagram)](https://www.instagram.com/vernion_propulsions/)
+| Screenshot 1 | Screenshot 2 | Screenshot 3 |
+|----------|----------|----------|
+| ![](https://www.instagram.com/p/C58qbPsBXXi/?img_index=1) | ![](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues/blob/main/Screenshots/Screenshot%20(31).png) | ![](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues/blob/main/Screenshots/Screenshot%20(33).png) |
 
 - FAOSTAT - Burning-Crop-Residues [(GitHub-Repo)](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues)  [(Try-it-Out!)](https://karthikputchala-faostat-burning-crop-residues-app-zdvocv.streamlit.app/)
 
