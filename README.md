@@ -10,7 +10,7 @@ Here are few of my projects.
 - Vernion Propulsions - Creating an Axial Flux Motor based on PCB stator [(Instagram)](https://www.instagram.com/vernion_propulsions/)
 | Screenshot 1 | Screenshot 2 |
 |----------|----------|
-| ![](https://github.com/Karthikputchala/Vernion-Propulsions/blob/main/IMG_20240419_205004_479.jpg) | ![](https://github.com/Karthikputchala/Vernion-Propulsions/blob/main/Screenshot_20240420_060359_Instagram.jpg) |
+| ![](https://github.com/Karthikputchala/Vernion-Propulsions/blob/main/IMG_20240419_205004_479.jpg) |
 
 - FAOSTAT - Burning-Crop-Residues [(GitHub-Repo)](https://github.com/Karthikputchala/FAOSTAT-Burning-Crop-Residues)  [(Try-it-Out!)](https://karthikputchala-faostat-burning-crop-residues-app-zdvocv.streamlit.app/)
 
